@@ -102,15 +102,6 @@ Built a Machine Learning application that recommends yoga poses based on user he
 
 ---
 
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=mowshii&theme=tokyonight"/>
-
-</p>
-
----
 
 # 📈 Contribution Graph
 
@@ -122,15 +113,6 @@ Built a Machine Learning application that recommends yoga poses based on user he
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=mowshii&theme=tokyonight&row=2&column=4"/>
-
-</p>
-
----
 
 # 📫 Connect with Me
 
@@ -140,13 +122,6 @@ Built a Machine Learning application that recommends yoga poses based on user he
 <img src="https://www.linkedin.com/in/g-mowshika-srivarshini-906789279/"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/mowshii">
-<img src="https://github.com/mowshii"/>
-</a>
 
 </p>
 
